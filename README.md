@@ -22,6 +22,7 @@ demo5（跳过
 
 demo6
 [Node API 对比工具] Node.js 的 HTTP 处理 - 请求与响应
+demo6-cheerio.js 爬取nodejs官网固定位置
 
 demo7
 [实现一个音乐下载器] Node 的事件机制 - EventEmitter

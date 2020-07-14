@@ -13,5 +13,5 @@ fs.readFile("./image/img.png", (err, buffer) => {
   const decodedImage = Buffer.from(base64Image, "base64");
 
   console.log(Buffer.compare(buffer, decodedImage));
-  fs.writeFile("img_decoded.jpg", decodedImage, (err) => {});
+  fs.writeFile("./image/img_decoded.jpg", decodedImage, (err) => {});
 });
