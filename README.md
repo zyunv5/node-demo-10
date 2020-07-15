@@ -1,6 +1,15 @@
 demo1-1
 [命令行动画龟兔赛跑] Node.js 的语言基础
 
+demo1-2
+[压测 Cluster 的并发负载] Node 的集群 - cluster
+使用一个 Node 的简单压测工具 autocannon，首先把它安装到本地：
+```js
+# 安装 autocannon 到全局
+npm i autocannon -g
+```
+
+
 demo1
 [视频时长统计] Node 的模块机制（CommonJS）与包管理
 与 buffer 有关
